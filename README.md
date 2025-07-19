@@ -1,5 +1,7 @@
 Olá! Seja Bem Vindo ao meu Github
 
+Eu me chamo Lucas Oliveira, sou estudante universitário em ADS e atualmente estou indo para o segundo semestre da faculdade
+
 <!--
 **luzallenbates/luzallenbates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
