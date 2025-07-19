@@ -2,6 +2,7 @@ Olá! Seja Bem Vindo ao meu Github
 
 Eu me chamo Lucas Oliveira, sou estudante universitário em ADS e atualmente estou indo para o segundo semestre da faculdade
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzallenbates&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzallenbates&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **luzallenbates/luzallenbates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
