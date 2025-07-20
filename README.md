@@ -1,6 +1,8 @@
 Olá! Seja Bem Vindo ao meu Github
 
-Eu me chamo Lucas Oliveira, sou estudante universitário em ADS e atualmente estou indo para o segundo semestre da faculdade
+Eu me chamo Lucas Oliveira, sou estudante universitário em ADS e atualmente estou indo para o segundo semestre da faculdade!
+Gosto de desenvolver jogos e páginas web, e estou sempre querendo aprender mais!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzallenbates&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzallenbates&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
