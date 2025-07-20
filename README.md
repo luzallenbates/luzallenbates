@@ -5,7 +5,6 @@ Gosto de desenvolver jogos e páginas web, e estou sempre querendo aprender mais
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzallenbates&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzallenbates&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=luzallenbates&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
 
 <!--
 **luzallenbates/luzallenbates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
