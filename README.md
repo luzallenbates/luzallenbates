@@ -1,3 +1,5 @@
+https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt
+
 Olá! Seja Bem Vindo ao meu Github
 
 Eu me chamo Lucas Oliveira, sou estudante universitário em ADS e atualmente estou indo para o segundo semestre da faculdade!
