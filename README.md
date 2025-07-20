@@ -1,4 +1,4 @@
-(https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt)
+(https://pixel-profile.vercel.app/api/github-stats?username=<luzallenbates>&theme=crt)
 
 Olá! Seja Bem Vindo ao meu Github
 
